@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dr Mario</string>
+    <string name="pausar">PAUSAR</string>
+
+    <string name="facebook_app_id">730144457871969</string>
+    <string name="fb_login_protocol_scheme">fb730144457871969</string>
+
+</resources>

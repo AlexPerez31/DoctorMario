@@ -1,0 +1,20 @@
+com/example/drmario/BuildConfig.java
+ com.example.drmario.BuildConfig
+com/example/drmario/logica/Dr_Mario.java
+ com.example.drmario.logica.Dr_Mario
+com/example/drmario/MainActivity.java
+ com.example.drmario.MainActivity
+ com.example.drmario.MainActivity$1
+ com.example.drmario.MainActivity$2
+ com.example.drmario.MainActivity$3
+ com.example.drmario.MainActivity$4
+com/example/drmario/Juego.java
+ com.example.drmario.Juego
+ com.example.drmario.Juego$1
+ com.example.drmario.Juego$2
+ com.example.drmario.Juego$2$1
+ com.example.drmario.Juego$3
+ com.example.drmario.Juego$4
+ com.example.drmario.Juego$5
+ com.example.drmario.Juego$6
+ com.example.drmario.Juego$6$1

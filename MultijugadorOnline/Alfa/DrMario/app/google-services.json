@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827684844785",
+    "firebase_url": "https://drmario-d6ef9-default-rtdb.firebaseio.com",
+    "project_id": "drmario-d6ef9",
+    "storage_bucket": "drmario-d6ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827684844785:android:a5fff31968b9d61c48e550",
+        "android_client_info": {
+          "package_name": "com.example.drmario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827684844785-elp4350l492fakjd0pobqd6fqgl5p6nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMXmP50R9ddGWW-g7mhuYRqmw3IQsswkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827684844785-elp4350l492fakjd0pobqd6fqgl5p6nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
